@@ -1,2 +1,2 @@
 # chess-game
-Chess developed in Java for ACADEMIC PURPOSES of the course "Java COMPLETO Programação Orientada a Objetos +Projetos"
+Jogo de xadrez para console desenvolvido em Java no curso "Java COMPLETO Programação Orientada a Objetos +Projetos"
